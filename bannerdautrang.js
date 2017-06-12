@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/G2gLGW' target='_blank'><img src='http://vhgland.com.vn/wp-content/uploads/2017/05/anh-fom-dki-con-do-tel.jpg' width='500px'/><br/>Bảng giá dự án SONASEA Condotel Phú Quốc</a>. Dự án condotel Phú Quốc HOT nhất 2017. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/Vm2c5Z' target='_blank'><img src='http://vhgland.com.vn/wp-content/uploads/2017/05/anh-fom-dki-con-do-tel.jpg' width='500px'/><br/>Bảng giá dự án SONASEA Condotel Phú Quốc</a>. Dự án condotel Phú Quốc HOT nhất 2017. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
